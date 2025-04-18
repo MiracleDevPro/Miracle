@@ -54,38 +54,3 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
 
-### PROJECTS AND DEV STUFF
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MiracleProDev&theme=blueberry&border=61dafb&hide_border=true" alt="MiracleProDev" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MiracleProDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiracleProDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<h4 align="center">
-  <a href="https://github.com/MiracleProDev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-<p align="center">
-<a href="https://github.com/MiracleProDev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=MiracleProDev&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer">
